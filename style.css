@@ -1,7 +1,8 @@
-p{ color: red;
-font-size: 20px;
-font-family: 'Times New Roman';
-border: 5px solid;
-padding: 50px;
-  
+/* Styling for paragraphs */
+p {
+  color: red;             /* Text color in red */
+  font-size: 20px;        /* Font size of 20 pixels */
+  font-family: 'Times New Roman', serif; /* Times New Roman font family with fallback to generic serif */
+  border: 5px solid;      /* Solid 5px border */
+  padding: 50px;          /* 50 pixels of padding */
 }
